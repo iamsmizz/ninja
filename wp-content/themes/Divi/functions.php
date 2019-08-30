@@ -3,6 +3,8 @@
 
 if ( ! isset( $content_width ) ) $content_width = 1080;
 
+
+
 function et_setup_theme() {
 	global $themename, $shortname, $et_store_options_in_one_row, $default_colorscheme;
 	$themename = 'Divi';
